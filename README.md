@@ -27,7 +27,7 @@ TMDB API (Movie data provider <3)
 
 Clone the repo:
 
-git clone https://github.com/your-username/cinebase.git
+YOUTUBE SE DEKH LO 😭
 
 
 Move inside project folder:
